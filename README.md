@@ -20,7 +20,7 @@ This project was created to **complete a college task** on handling **big data**
 1. **Load CSV file** using Pandas.  
 2. **Process & clean data** (e.g., encoding issues with UTF-8).  
 3. **Connect to MySQL** using SQLAlchemy + PyMySQL.  
-4. **Import into database table** (`sign_mnist_train`) with `df.to_sql()`.  
+4. **Import into database table** (`sign_mnist_train or custom table on your databases`) with `df.to_sql()`.  
 
 ---
 
