@@ -30,3 +30,6 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+
+## Install dependencies:
+py -m pip install pandas sqlalchemy pymysql
