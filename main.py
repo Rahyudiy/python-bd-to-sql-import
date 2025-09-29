@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # /change this code to your csv file direction
-csvFile = r"C:\Users\gdeng\Downloads\archive (2)\sign_mnist_train.csv"
+csvFile = r"C:\sign_mnist_train.csv"
 
 # change this to your sql account
 user = "root"
